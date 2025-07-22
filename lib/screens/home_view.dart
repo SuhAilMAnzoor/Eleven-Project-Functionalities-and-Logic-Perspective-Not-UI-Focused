@@ -1,5 +1,5 @@
-import 'package:eleven_project_functionality_perspective_not_ui/cart_view.dart';
 import 'package:eleven_project_functionality_perspective_not_ui/data/product_list.dart';
+import 'package:eleven_project_functionality_perspective_not_ui/screens/cart_view.dart';
 import 'package:flutter/material.dart';
 
 class HomeView extends StatefulWidget {

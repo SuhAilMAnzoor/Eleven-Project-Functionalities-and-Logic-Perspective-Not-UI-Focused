@@ -1,4 +1,4 @@
-import 'package:eleven_project_functionality_perspective_not_ui/home_view.dart';
+import 'package:eleven_project_functionality_perspective_not_ui/screens/home_view.dart';
 import 'package:flutter/material.dart';
 
 void main() {
